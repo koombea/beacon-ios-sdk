@@ -19,8 +19,8 @@ Documentation/
 !default.mode2v3
 *.perspectivev3
 !default.perspectivev3
-xcuserdata/
-xcshareddata/
+# xcuserdata/
+# xcshareddata/
 
 ## Other
 *.moved-aside
