@@ -1,5 +1,5 @@
 framework module HSAttachmentPicker {
-  umbrella header "HSAttachmentPicker-umbrella.h"
+  umbrella header "HSAttachmentPicker.h"
 
   export *
   module * { export * }
